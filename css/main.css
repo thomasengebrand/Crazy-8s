@@ -245,7 +245,10 @@ textarea {
 
 .background-image {
     position: absolute;
-    z-index: 0
+    z-index: -100;
+    margin: -320px 0 0 -300px;
+    width: 486px;
+    height: 421px;
 }
 
 
